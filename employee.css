@@ -1,0 +1,11 @@
+form{
+    background-color: rgb(150, 209, 233);
+    margin-left: 20px;
+    border-style: solid;
+    border-radius: 12px;
+    padding: 10px;
+    border-color: blue;
+}
+html{
+    background-color: skyblue;
+}

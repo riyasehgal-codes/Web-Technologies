@@ -1,0 +1,30 @@
+#yay{
+    color:pink;
+    border-style: solid;
+    border-color: silver;
+    /* border-width: 3px; */
+    border-radius: 30px;
+    padding: 10px;
+    border-style:double;
+  
+    border-width: 8px;
+    
+   
+}
+
+b{
+
+    font-family: cambria;
+    font-size: 20px;
+    text-decoration: underline;
+    text-transform: initial;
+    color:antiquewhite
+
+}
+
+body{
+    background: linear-gradient( rgb(26, 1, 5), skyblue);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;   /*to cover whole page */
+}
